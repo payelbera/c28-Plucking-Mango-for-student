@@ -1,3 +1,2 @@
 # MatterJSBoilerPlate
-MatterJSBoilerPlate
-https://ritisha12.github.io/C28-project-trial-2/.
+Download the code,, study the respective classes and fill code for all the comments given to complete the project
