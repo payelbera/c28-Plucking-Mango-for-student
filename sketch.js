@@ -33,8 +33,8 @@ function setup() {
 	//CREATE STONE OBJECT
 	//CREATE STRING OBJECT
 	
-	mango1=new Mango(580,200,30)//radius is actually 45 for all mangoes
-	//CREATE 5-6 MANGO OBJECTS
+	mango1=new Mango(580,200,30)
+	//CREATE 5 MANGO OBJECTS
 	Engine.run(engine);
   
 }
@@ -43,7 +43,7 @@ function draw() {
   rectMode(CENTER);
   background("lightblue");
   //DISPLAY GROUND
-  //tree.display()
+ 
   image(treeimage,380,100,415,615)
   //DISPLAY STONE
   string.display()
